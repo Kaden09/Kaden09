@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Kaden09/Kaden09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Max👋
 
-Here are some ideas to get you started:
+## 💫 About Me:
+Frontend Developer with 1.5 years of experience at React. I create modern web applications and try to write clean and scalable code, thoughtful UX and smooth animations. I work with key technologies: React, Next.js, Redux, Zustand, React Query, Tailwind, SASS, I use Atomic Design and Feature-Sliced-Design for scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,figma,git,npm,yarn,postman,vite)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kaden09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaden09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaden09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaden09&icon=0&color=0)](https://visitcount.itsvg.in)
