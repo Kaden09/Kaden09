@@ -2,7 +2,7 @@
 # Hi, I'm Max👋
 
 ## 💫 About Me:
-Frontend Developer with 1.5 years of experience at React. I create modern web applications and try to write clean and scalable code, thoughtful UX and smooth animations. I work with key technologies: React, Next.js, Redux, Zustand, React Query, Tailwind, SASS, I use Atomic Design and Feature-Sliced-Design for scalability.
+Frontend Developer with 2 years of experience at React. I create modern web applications and try to write clean and scalable code, thoughtful UX and smooth animations. I work with key technologies: React, Next.js, Redux, Zustand, React Query, Tailwind, SASS, I use Atomic Design and Feature-Sliced-Design for scalability.
 
 ## 💻 Skills:
 
