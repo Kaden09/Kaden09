@@ -6,7 +6,7 @@ Frontend Developer with 3 years of experience at React. I create modern web appl
 
 ## 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,figma,git,npm,yarn,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,figma,git,npm,yarn,postman,vite,bun,java)](https://skillicons.dev)
 
 ## 👾 Codewars
 ![](https://www.codewars.com/users/kaden09/badges/large)
