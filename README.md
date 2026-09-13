@@ -14,7 +14,7 @@ I'm looking for ambitious projects where I can contribute as both a frontend spe
 
 ## 💻 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,figma,git,npm,yarn,postman,vite,bun,java,spring,prisma,postgres,hibernate,linux,grafana,kafka,kubernetes,docker,redis,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,figma,git,npm,yarn,postman,vite,bun,java,spring,prisma,postgres,hibernate,linux,grafana,kafka,kubernetes,docker,redis,prometheus,vscode,idea,photoshop)](https://skillicons.dev)
 
 ## 👾 Codewars
 ![](https://www.codewars.com/users/kaden09/badges/large)
